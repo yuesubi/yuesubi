@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### GitLab
+Check out my main projects on GitLab : 
+[gitlab.com/yuesubi](https://gitlab.com/yuesubi)
+
 <!--
 **yuesubi/yuesubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
