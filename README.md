@@ -1,6 +1,10 @@
-### Hi there 👋
+# Welcome 👋
 
-#### GitLab
+## Dev 💻
+- ♥️ I like Python 🐍 & C/C++ 🅒
+- 🌱 I'm learning OCaml 🐫 & Rust 🦀
+
+## GitLab 🦊
 Check out my main projects on GitLab : 
 [gitlab.com/yuesubi](https://gitlab.com/yuesubi)
 
